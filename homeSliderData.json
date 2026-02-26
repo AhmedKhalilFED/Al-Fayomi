@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Home_Slider_Img_01",
+    "slogan": "Alfayomi Coffee since 1938",
+    "adsTitle": "It's always a good time to eat in that place.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/refs/heads/main/home-slider-1.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_02",
+    "slogan": "Alfayomi Coffee since 1938",
+    "adsTitle": "Tasty bites, endless delights.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/refs/heads/main/home-slider-2.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_03",
+    "slogan": "Alfayomi Coffee since 1938",
+    "adsTitle": "We Bring the fries game to a whole new level.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/refs/heads/main/home-slider-3.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_04",
+    "slogan": "Alfayomi Coffee since 1938",
+    "adsTitle": "beef Burger is the soundtrack of my life.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/refs/heads/main/home-slider-4.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_05",
+    "slogan": "Alfayomi Coffee since 1938",
+    "adsTitle": "It doesn’t get cozier than this.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/refs/heads/main/home-slider-5.jpg"
+  },
+  {
+    "id": "Home_Slider_Img_06",
+    "slogan": "Alfayomi Coffee since 1938",
+    "adsTitle": "The unlimited cranch and ranch.",
+    "btnTitle": "find out more",
+    "btnLink": "/menu",
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/refs/heads/main/home-slider-6.jpg"
+  }
+]
