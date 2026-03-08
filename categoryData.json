@@ -1,4 +1,5 @@
-[  {
+[
+  {
     "id": "44",
     "title": "Iced Caramel Macchiato",
     "price": 75,
@@ -24,7 +25,8 @@
     "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/7cf7ec6495a22c166ac6b9ada4d4417ec01c43a0/Copper-Alfayomi-crown-Burner-size2.jpg",
     "category": "COFFEE TOOLS",
     "desc": ""
-  }, {
+  },
+  {
     "id": "46",
     "title": "Hot Chocolate",
     "price": 75,
