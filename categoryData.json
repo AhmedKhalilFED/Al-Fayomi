@@ -35,5 +35,18 @@
     "sizeM": "75",
     "sizeL": "85",
     "desc": "A mixture of fresh milk with the finest rich chocolate."
+  },
+  {
+    "id": "33",
+    "title": "Tiramisu",
+    "price": 55,
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/5c62c75e47e7c9eb5f0f9c5e7e82f2187b859263/tiramisu.jpg",
+    "category": "DESSERTS",
+    "fat": 43,
+    "saturates": 7,
+    "sugars": 64,
+    "salt": 8,
+    "kcal": 611,
+    "desc": "rich, creamy, and indulgent nature, emphasizing the blend of coffee, mascarpone, and cocoa that delivers a pick-me-up experience."
   }
 ]
