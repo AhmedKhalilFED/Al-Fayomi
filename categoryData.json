@@ -48,5 +48,14 @@
     "salt": 8,
     "kcal": 611,
     "desc": "rich, creamy, and indulgent nature, emphasizing the blend of coffee, mascarpone, and cocoa that delivers a pick-me-up experience."
+  },
+  {
+    "id": "47",
+    "title": "French Hazelnut",
+    "price": 175,
+    "img": "https://raw.githubusercontent.com/AhmedKhalilFED/Al-Fayomi/f522adff6f1290e940dcc239179add67caba89a1/PacketFrenchHazelnut.jpg",
+    "category": "CAN",
+    "weight": "1/4 KG",
+    "desc": "Rich coffee blend and delicious creamer in your favorite hazelnut flavor."
   }
 ]
